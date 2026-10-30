@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+config.local.json
+assets/
+work/
+*.bin
+*.gguf
+*.tar.gz
+*.uploading
+*.log

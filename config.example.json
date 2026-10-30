@@ -1,0 +1,7 @@
+{
+  "assets_dir": "./assets",
+  "docker_repository": "YOUR_DOCKERHUB_ACCOUNT/strata-transfer",
+  "workers": 2,
+  "part_bytes": 2097152,
+  "parts_per_image": 60
+}

@@ -1,0 +1,2356 @@
+{
+  "archive": "strata-0.2.8-qwen-mtp-rt-20261030.tar.gz",
+  "archive_bytes": 688088788,
+  "archive_sha256": "a1040f6559bdb7ffc08cc1c52571c5dc7b3e50ce16082a21621c71dda85c01f6",
+  "part_bytes": 2097152,
+  "parts": [
+    {
+      "part": 0,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0000",
+      "bytes": 2097152,
+      "sha256": "7763f107ab97659b7ef6707cbe07fbae66d8183f31f6b3067f915a02247dc81e"
+    },
+    {
+      "part": 1,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0001",
+      "bytes": 2097152,
+      "sha256": "d9719cd4b12b7cde76b5f89d45d7133887c5df4c35e491cb8654b9f93f4710dd"
+    },
+    {
+      "part": 2,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0002",
+      "bytes": 2097152,
+      "sha256": "bbb2e6c62e460738230b0e77ef0948a5f768df1477870cf4286cae419fcee699"
+    },
+    {
+      "part": 3,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0003",
+      "bytes": 2097152,
+      "sha256": "767369f0968b9dbecc5ea2cc44aa1149c347d488bf5456acb76cabfe8a84d627"
+    },
+    {
+      "part": 4,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0004",
+      "bytes": 2097152,
+      "sha256": "161c45c6a75f1b172e652ea3f63ba04700ac9f8f85d53a8c518936fa2e85e3fa"
+    },
+    {
+      "part": 5,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0005",
+      "bytes": 2097152,
+      "sha256": "830489fb375001da99e82b8d2a71ed2dba0583eff0ca1d30931e428c8476fbe5"
+    },
+    {
+      "part": 6,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0006",
+      "bytes": 2097152,
+      "sha256": "941b804a4da343849ba0c6b43f710d4b8c8b0bd75f7165b2e31923b79dbdc83b"
+    },
+    {
+      "part": 7,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0007",
+      "bytes": 2097152,
+      "sha256": "31a522cc5297bbbbdf8d9c79b42a96ed5f0eea196a2f136a0af1a37707e0e278"
+    },
+    {
+      "part": 8,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0008",
+      "bytes": 2097152,
+      "sha256": "d522186ce9874aa4f435f216f6303ccae87abc612cbfaaa5841b141f5b7a2146"
+    },
+    {
+      "part": 9,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0009",
+      "bytes": 2097152,
+      "sha256": "6b21147bc12bd83ca50bca1cc9c37edf378dccefe5c7864de3385456e64fc9d6"
+    },
+    {
+      "part": 10,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0010",
+      "bytes": 2097152,
+      "sha256": "00ef54719a9a084b4f33ba4af64bd4cd90ddf6411623054ef5b2d8ae28d74d94"
+    },
+    {
+      "part": 11,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0011",
+      "bytes": 2097152,
+      "sha256": "f6f6c978ce445d44f5e0680627bee6c96d0f5db61590dedc79135d4086e98adb"
+    },
+    {
+      "part": 12,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0012",
+      "bytes": 2097152,
+      "sha256": "f87d222fb8a973d8848741c7ee8f6bbf4a0992df7d0b7d8867ad1e05d53017e4"
+    },
+    {
+      "part": 13,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0013",
+      "bytes": 2097152,
+      "sha256": "e87fd2b620c45aa1e66c4d16fe96788f8d4b914abfe34264d57b8cebdbf01dad"
+    },
+    {
+      "part": 14,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0014",
+      "bytes": 2097152,
+      "sha256": "f523bc7c524a5a29691ff6c473823be5a946e610bdbb96abb5c06b0046ea8925"
+    },
+    {
+      "part": 15,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0015",
+      "bytes": 2097152,
+      "sha256": "002ee1e6189b58731955bbd91a5bbe644a478a51bd423deff1cfeabe519908c4"
+    },
+    {
+      "part": 16,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0016",
+      "bytes": 2097152,
+      "sha256": "c35c1f9618242245a1d40b8f735c9a06955b95289ae80472a0cf80c637de3111"
+    },
+    {
+      "part": 17,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0017",
+      "bytes": 2097152,
+      "sha256": "06eea35d1254cbe6bf2e82d348a8bf79c6dfc13045d210e079657b541922e090"
+    },
+    {
+      "part": 18,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0018",
+      "bytes": 2097152,
+      "sha256": "47178f71679d64d449ef57250d27e93d6d2b30c7325d4763502af8d5b7bb3eb0"
+    },
+    {
+      "part": 19,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0019",
+      "bytes": 2097152,
+      "sha256": "a34f84bc56509edfb04b457f6cb258f48ad9aa6a155909fd6bc4348e8f0cb16e"
+    },
+    {
+      "part": 20,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0020",
+      "bytes": 2097152,
+      "sha256": "abbcaf3fe0058473dd55a61324393627a77ce6f1530e66cb05ed4155ff6e4c81"
+    },
+    {
+      "part": 21,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0021",
+      "bytes": 2097152,
+      "sha256": "44d8227202481c94f3f72fc5c2155afd973585b4a33c6e9b7356516bac244696"
+    },
+    {
+      "part": 22,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0022",
+      "bytes": 2097152,
+      "sha256": "0dc4a8e969f7b8725740dc40d9f98ea79ba35e04f5255895c868dee70f14542b"
+    },
+    {
+      "part": 23,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0023",
+      "bytes": 2097152,
+      "sha256": "610cc99d3e4ae99b111eb30ad1ddf6bf90fcde6da08f38ef7f6976bb14e5f6d8"
+    },
+    {
+      "part": 24,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0024",
+      "bytes": 2097152,
+      "sha256": "097bd7daea16be914682f497d9b45698d36953fbe9681a462dcf14012296d41e"
+    },
+    {
+      "part": 25,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0025",
+      "bytes": 2097152,
+      "sha256": "cffd380f1e2ef210a0e8da4fe1efe456f820bcc024fa48a71ec76e76cdc809ec"
+    },
+    {
+      "part": 26,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0026",
+      "bytes": 2097152,
+      "sha256": "687be652f6e39bc03c85d186ab06267da1b41339869e33fd524a79d0415ad2f3"
+    },
+    {
+      "part": 27,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0027",
+      "bytes": 2097152,
+      "sha256": "46447033a2617f6a477ba6fbc53d66802d4f659248c019aa1b787c991dfe6dfd"
+    },
+    {
+      "part": 28,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0028",
+      "bytes": 2097152,
+      "sha256": "1373ff0174de3cab1e0192f49ab424b6813ab4aee0d5713444a72eefee13bee3"
+    },
+    {
+      "part": 29,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0029",
+      "bytes": 2097152,
+      "sha256": "bde11b0caf1d6a2c1b8fea3bd001c298fd4a055fa9eb211652e2155a38e7371c"
+    },
+    {
+      "part": 30,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0030",
+      "bytes": 2097152,
+      "sha256": "df4e65a8466c043b4f591272905cd887bf53720fdd15d710a4e70b6497a06013"
+    },
+    {
+      "part": 31,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0031",
+      "bytes": 2097152,
+      "sha256": "4d07e57ac2312d6d899cd30971464830c47b97b1fe38f12c76c1815aada220e3"
+    },
+    {
+      "part": 32,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0032",
+      "bytes": 2097152,
+      "sha256": "92ca838bfa587f13fd77734864fff93bff4bbeade3d1d6509233af9360137e78"
+    },
+    {
+      "part": 33,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0033",
+      "bytes": 2097152,
+      "sha256": "3148d8702cd6a67c353c46406ae7642f47630f4e119681578f6c36c638947cd1"
+    },
+    {
+      "part": 34,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0034",
+      "bytes": 2097152,
+      "sha256": "f8ec238ec66f4bcddb830157d1895e188ab0a1e89b1abf51ffbc027290900c34"
+    },
+    {
+      "part": 35,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0035",
+      "bytes": 2097152,
+      "sha256": "f9bc01a22ea2acf3bf10cb5759c02b7f83d97391b1ea6799dc2189354718342e"
+    },
+    {
+      "part": 36,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0036",
+      "bytes": 2097152,
+      "sha256": "8fa19758d1755f602012ae9a77c89ef8e1794111e8982385e75b7b3cd935349d"
+    },
+    {
+      "part": 37,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0037",
+      "bytes": 2097152,
+      "sha256": "8a94eeb9240ced367578b909536af0b8c50a47acdd7b711b05fc5b463bb86a2d"
+    },
+    {
+      "part": 38,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0038",
+      "bytes": 2097152,
+      "sha256": "c08e85c3ad48b726635440bda5c1b7b4cef2dfb1e511f7d42435f74358d4e769"
+    },
+    {
+      "part": 39,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0039",
+      "bytes": 2097152,
+      "sha256": "6cd0c3338c1b532a87aff53bffb5e42c341ffd4aa044f95113ec59ffba1f5df5"
+    },
+    {
+      "part": 40,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0040",
+      "bytes": 2097152,
+      "sha256": "444c5e3f95bbe3063b0027c111f83568a2029538e3b0edc8825e10940a871f49"
+    },
+    {
+      "part": 41,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0041",
+      "bytes": 2097152,
+      "sha256": "284d37417551ff2849b9ec58d996b16194e3e9a6bf955dd8d8fbf3c391f7a4c3"
+    },
+    {
+      "part": 42,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0042",
+      "bytes": 2097152,
+      "sha256": "04fe79f67b94e99ee8c67da446ae965fdd16ec0a7e2f505c0a170816e5edc46b"
+    },
+    {
+      "part": 43,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0043",
+      "bytes": 2097152,
+      "sha256": "fabdd4d47b9e1935e413e546e581aaf8f0d6621a64583d6c39dc269729c93de8"
+    },
+    {
+      "part": 44,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0044",
+      "bytes": 2097152,
+      "sha256": "cc742af83355ee4991a22b15200514b38343cf756fa14081b97552f1c21df1fe"
+    },
+    {
+      "part": 45,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0045",
+      "bytes": 2097152,
+      "sha256": "6ac61f00703feb5aedf46d11bf4f22324ee565011523b46c5b6decd477aea3db"
+    },
+    {
+      "part": 46,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0046",
+      "bytes": 2097152,
+      "sha256": "b79a30950a387bd312df7fa184b0fdf8e8b088764f39cd937fd9f7e345927688"
+    },
+    {
+      "part": 47,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0047",
+      "bytes": 2097152,
+      "sha256": "f0dadae0a501e8aafec3eb05614ee997e418a87f43d9c118389dd8b0efb1751c"
+    },
+    {
+      "part": 48,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0048",
+      "bytes": 2097152,
+      "sha256": "8c1486f734eeabf285c86b038de9eeab2cf79c1f34fb99eb63d194a29bf00d6b"
+    },
+    {
+      "part": 49,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0049",
+      "bytes": 2097152,
+      "sha256": "bce4a386db9592ec2a6eaca9941736eb3448f156bb20c64b2cd822b3fae8b7d6"
+    },
+    {
+      "part": 50,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0050",
+      "bytes": 2097152,
+      "sha256": "4742f11a7b1a82ee141a2ca0b133a216d72b898784fa5e408b70ec1f0d99785b"
+    },
+    {
+      "part": 51,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0051",
+      "bytes": 2097152,
+      "sha256": "5500530b2d0282c42ca81d67293c1f945d29cd735696d8032096c493c621918e"
+    },
+    {
+      "part": 52,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0052",
+      "bytes": 2097152,
+      "sha256": "875c5b135b61992f1ee541c4b482ebbe809fe6d5fa963e4cf8b0b60d4cd773b9"
+    },
+    {
+      "part": 53,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0053",
+      "bytes": 2097152,
+      "sha256": "f5ca8da886df12e85a7042f2786f4a083ffba8762e5ebe63df5de69b5eed9f78"
+    },
+    {
+      "part": 54,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0054",
+      "bytes": 2097152,
+      "sha256": "274b1efd97cdd10e424dab7cf4b52df102394ace2ddfa1d5d443127b7edbd20a"
+    },
+    {
+      "part": 55,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0055",
+      "bytes": 2097152,
+      "sha256": "6157070b008ffc903991a0cd2e3419cb1b56aba82eeb84a07b6ea2782d783575"
+    },
+    {
+      "part": 56,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0056",
+      "bytes": 2097152,
+      "sha256": "bc04b9b049130b0f9cb6a82faa90f48da6e69b0afa0e85298c3ee0b28b9929d9"
+    },
+    {
+      "part": 57,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0057",
+      "bytes": 2097152,
+      "sha256": "3d5bf0328db23cf3a0a324ca670a7185abb36393c55cfd5afee6e0889fa2198c"
+    },
+    {
+      "part": 58,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0058",
+      "bytes": 2097152,
+      "sha256": "3213d896a1b2754f73738601c39c253c8fede7876941f919a7a6142a505940d2"
+    },
+    {
+      "part": 59,
+      "batch": 0,
+      "name": "mtp-rt.tar.gz.part-0059",
+      "bytes": 2097152,
+      "sha256": "fd26c517b211ae3a5742ece995caf48ab3365bca256cafe407f85fd73e503458"
+    },
+    {
+      "part": 60,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0060",
+      "bytes": 2097152,
+      "sha256": "ba0c456ac0e69b746934038088eebfe71fc7107a6a288e6995bc49711864482c"
+    },
+    {
+      "part": 61,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0061",
+      "bytes": 2097152,
+      "sha256": "dcb6c934f92da42c59b9a07ddf7f66e99fb7d27cdb2f9f3afe215b10e053aa7b"
+    },
+    {
+      "part": 62,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0062",
+      "bytes": 2097152,
+      "sha256": "9039454a424d03ca0932d21dc3e875c397d36bfcd58f91a57ae50ff79638623e"
+    },
+    {
+      "part": 63,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0063",
+      "bytes": 2097152,
+      "sha256": "29fa5193b3355ef5e7d84169d41e2b850ddbf743692d843fa8b464ae73f275e8"
+    },
+    {
+      "part": 64,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0064",
+      "bytes": 2097152,
+      "sha256": "82d3dca79a075db5fe014bccf3d02b0965ac28d90dbb52c68ff506bbee883d45"
+    },
+    {
+      "part": 65,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0065",
+      "bytes": 2097152,
+      "sha256": "9c172ac5e41371409c7b2ec1d32c0d943e4de9518733e6391c70fd0e72ac4e24"
+    },
+    {
+      "part": 66,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0066",
+      "bytes": 2097152,
+      "sha256": "6b94ce2de18e0959ce98a0c9a011a8f3e22e051bc2edd134fd46dad3a106e935"
+    },
+    {
+      "part": 67,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0067",
+      "bytes": 2097152,
+      "sha256": "1078c28493559b666792af0095966270f945f4ebf78305cd00cba8960c72eb2c"
+    },
+    {
+      "part": 68,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0068",
+      "bytes": 2097152,
+      "sha256": "340955b031ca3a8b5aba4baf60bd378f6292a6b07d3f8443611c9368fe9d2792"
+    },
+    {
+      "part": 69,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0069",
+      "bytes": 2097152,
+      "sha256": "bdb83c8ca3fffffdf6b0026c77819109db1baba6caa958662341997a356fc0ef"
+    },
+    {
+      "part": 70,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0070",
+      "bytes": 2097152,
+      "sha256": "eec545f7a06aea1a4591836fd1a4208723cd8276150e5af88777c75dab03f92c"
+    },
+    {
+      "part": 71,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0071",
+      "bytes": 2097152,
+      "sha256": "7a4e72e04c3d70c72001c9940e38c9fe9da448909f710993f8d0777f05035534"
+    },
+    {
+      "part": 72,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0072",
+      "bytes": 2097152,
+      "sha256": "c5d620b15827e1ad243544c8b4aa445da1bc8924762a5eddb41a842c8b828302"
+    },
+    {
+      "part": 73,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0073",
+      "bytes": 2097152,
+      "sha256": "a059d297d6678d325c73d9cc2436ff96aa44e9940c2b9446329c1ec32241e55a"
+    },
+    {
+      "part": 74,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0074",
+      "bytes": 2097152,
+      "sha256": "63ef5918e8f5df3343ce2d65acfd9c7074cc9d6c208959771f876ccd496ae92e"
+    },
+    {
+      "part": 75,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0075",
+      "bytes": 2097152,
+      "sha256": "5009249007e8a9471a27df1ede7e621423a3d75e93b5bdebb32412afe3a2c335"
+    },
+    {
+      "part": 76,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0076",
+      "bytes": 2097152,
+      "sha256": "3653927d158a2cde576fe1d0e65ab400180ca3aa916a6e19972945240df02912"
+    },
+    {
+      "part": 77,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0077",
+      "bytes": 2097152,
+      "sha256": "a1ba64203ea2c3cc02fae5ef4fef2dbe6f141c0235106fc47ffd88a7c1374cca"
+    },
+    {
+      "part": 78,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0078",
+      "bytes": 2097152,
+      "sha256": "c69e8d9aac1a0baab269ecbb58dce9957012d12c0483150f0976b5ad170e0027"
+    },
+    {
+      "part": 79,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0079",
+      "bytes": 2097152,
+      "sha256": "0ebceb8c6ccb79d67c6805b834e13397d0897931d9e327d449e9eaa19be8c7eb"
+    },
+    {
+      "part": 80,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0080",
+      "bytes": 2097152,
+      "sha256": "c49b71b6eddd6f0447e6cdd484f82a341fd9a2f06b2a0073c6d71ac76afaa3df"
+    },
+    {
+      "part": 81,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0081",
+      "bytes": 2097152,
+      "sha256": "a462c1ba9a3000b529fa97995cd0e875e768225e36d549eccd69c32a8c2cb000"
+    },
+    {
+      "part": 82,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0082",
+      "bytes": 2097152,
+      "sha256": "408512334d717174d05e5efbb0694ddb3f905d3197ebc803997616263e9da3a7"
+    },
+    {
+      "part": 83,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0083",
+      "bytes": 2097152,
+      "sha256": "f0eec7942fdfe643ebfcc49a6e70135967cc077beccf40b580279e9c358ad602"
+    },
+    {
+      "part": 84,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0084",
+      "bytes": 2097152,
+      "sha256": "597faab5e2ece2833e7966707517575a97883b34665016ff3f59c440298b7f80"
+    },
+    {
+      "part": 85,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0085",
+      "bytes": 2097152,
+      "sha256": "a1907838bccc51bf40fe28d0e750a2fab68b23c091ec37bf42d97610eb7fdf10"
+    },
+    {
+      "part": 86,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0086",
+      "bytes": 2097152,
+      "sha256": "bd85d870855acee0316839ce347a851af724640ca89d514696d690b3df7cc4d2"
+    },
+    {
+      "part": 87,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0087",
+      "bytes": 2097152,
+      "sha256": "ba20340ae4f267839b6e94d7fb60b16a1c50f8a41297b763bff38f8c98e87f58"
+    },
+    {
+      "part": 88,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0088",
+      "bytes": 2097152,
+      "sha256": "a227e9624ef3e59c925dfb95ebc08e83f83c9019b57d48fc00cbdad296253b31"
+    },
+    {
+      "part": 89,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0089",
+      "bytes": 2097152,
+      "sha256": "9f7c48816687e449ac11df39b1d30a14d16d00a6aaa4f0ae841000fc4612f1cb"
+    },
+    {
+      "part": 90,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0090",
+      "bytes": 2097152,
+      "sha256": "14e2ee737456a7cf70e695c69ba1c7ec706645960d63b3c16f63f1d5f123fcb6"
+    },
+    {
+      "part": 91,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0091",
+      "bytes": 2097152,
+      "sha256": "ee4ebcbab4c896727eedaa345999782ee60c81d8d407e23cec3ec35588d42ced"
+    },
+    {
+      "part": 92,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0092",
+      "bytes": 2097152,
+      "sha256": "e54b505d4609eba4ff8d3ba0ab07fb5b017c12b714c81bfc8b021c320b463e90"
+    },
+    {
+      "part": 93,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0093",
+      "bytes": 2097152,
+      "sha256": "9f148ddc9ae177e753e225788c2f828eb305646378773f5d1ea51e2f11e3e70e"
+    },
+    {
+      "part": 94,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0094",
+      "bytes": 2097152,
+      "sha256": "8d0696f9f10a72983afc70a4c3de52d4b4be2feb4d1d33167f83891f22803b86"
+    },
+    {
+      "part": 95,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0095",
+      "bytes": 2097152,
+      "sha256": "3b811e4a481738cd67ee26fbebf525222b2e0a44d6bb8515260f8a7f1be4e309"
+    },
+    {
+      "part": 96,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0096",
+      "bytes": 2097152,
+      "sha256": "1f024e273cb8ffa8f473fdfd6089c8db74c619b667072a6697201d3fd79905ad"
+    },
+    {
+      "part": 97,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0097",
+      "bytes": 2097152,
+      "sha256": "bb1d54e0020bd9280021bb365d888db7063769efb3e924331f83c4dccbf3a846"
+    },
+    {
+      "part": 98,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0098",
+      "bytes": 2097152,
+      "sha256": "736af2b9eba755f035ab22a8f5aa979116d3e2e0f08ecce2d15166fe3575bfd2"
+    },
+    {
+      "part": 99,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0099",
+      "bytes": 2097152,
+      "sha256": "24681bec8820aa070e7047cff152443ba7bc3de7d9d30902a2f87d54d0b431bd"
+    },
+    {
+      "part": 100,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0100",
+      "bytes": 2097152,
+      "sha256": "68954cf3ee77a73a2895cb2eb2393a2fab111ff719b8db78c597a8ed2c1189a0"
+    },
+    {
+      "part": 101,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0101",
+      "bytes": 2097152,
+      "sha256": "0e61a537d0c527205cdd51e799a118db9b1ffaf8963864f2cb021668faea5ab8"
+    },
+    {
+      "part": 102,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0102",
+      "bytes": 2097152,
+      "sha256": "930e05aa0e2916ef4ed463b92b1881c61a6dac3e6b998a76f47c76a86c8cc17f"
+    },
+    {
+      "part": 103,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0103",
+      "bytes": 2097152,
+      "sha256": "1a6257a05598736169158d5cc54fc4e22f653274389a707eba5580d33504704e"
+    },
+    {
+      "part": 104,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0104",
+      "bytes": 2097152,
+      "sha256": "d24a77b1d7dcfe5621c5f2ebbd23bba632499e046a2331c1b40feffddc8a1b89"
+    },
+    {
+      "part": 105,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0105",
+      "bytes": 2097152,
+      "sha256": "6898d7b4f5095f817122ff70400bff4c81d62406b69ffb890a2c897a702f62de"
+    },
+    {
+      "part": 106,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0106",
+      "bytes": 2097152,
+      "sha256": "a4e42880649820891306557c867e198655287c704801cff192c0fc684a5a6300"
+    },
+    {
+      "part": 107,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0107",
+      "bytes": 2097152,
+      "sha256": "9fa9e6074cfae64e81961d2de40a00bd1c9278789362ef3738c0d6e14ef34ff8"
+    },
+    {
+      "part": 108,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0108",
+      "bytes": 2097152,
+      "sha256": "961a93e1768b1cf0cd4f3ef8bb87caa80c0f4d47e2796d7e3c6aa84ab0d73d6e"
+    },
+    {
+      "part": 109,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0109",
+      "bytes": 2097152,
+      "sha256": "10cd8de530a780e1367e3f9231282d09ac43d9e60f19510445de898d787e0bba"
+    },
+    {
+      "part": 110,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0110",
+      "bytes": 2097152,
+      "sha256": "94d8c6d24bf6d5ee66df4ef195af43abdf66ff69f3fa5bca40f3d57938b253af"
+    },
+    {
+      "part": 111,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0111",
+      "bytes": 2097152,
+      "sha256": "c6d1352dafc91cf9fe9a6977c8ccd9bc646cc04e25f4187ccd3824ee87323f1e"
+    },
+    {
+      "part": 112,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0112",
+      "bytes": 2097152,
+      "sha256": "a60035c3f30749b64039ed21ecace984e433295ac71461384018d5785bbd02d6"
+    },
+    {
+      "part": 113,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0113",
+      "bytes": 2097152,
+      "sha256": "decf9e1df6571758737e274a71e4a2964521b2a228c2e8ba912fe11f9d939fa1"
+    },
+    {
+      "part": 114,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0114",
+      "bytes": 2097152,
+      "sha256": "84e86e5bae4df997ea26e060f54c924fd38a492cae0bb821a270f751b1f14268"
+    },
+    {
+      "part": 115,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0115",
+      "bytes": 2097152,
+      "sha256": "49f5078a5b60d37be960439425e0345a20f501a6c1abbf11416219f76ccee6cf"
+    },
+    {
+      "part": 116,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0116",
+      "bytes": 2097152,
+      "sha256": "15202f1c2d189499d8b071db5de8ffaffb34022472865ee4ed5254bf9ebc8929"
+    },
+    {
+      "part": 117,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0117",
+      "bytes": 2097152,
+      "sha256": "5ac9fda52e3a3f0afa48bd2f60447f98fc7367eae2bd8c6250f6a327bb124cf6"
+    },
+    {
+      "part": 118,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0118",
+      "bytes": 2097152,
+      "sha256": "bce17271370b3bd787ffab9c909434050f2104bf221b667000de8f8dc18a9b19"
+    },
+    {
+      "part": 119,
+      "batch": 1,
+      "name": "mtp-rt.tar.gz.part-0119",
+      "bytes": 2097152,
+      "sha256": "7f269921d8aee57a989f2c325d48882e1f64eee4ad52f4841929358ae9e40a65"
+    },
+    {
+      "part": 120,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0120",
+      "bytes": 2097152,
+      "sha256": "4a5991a631cf55fd6b65ee043a14232d8762632ca5a0a050d76d32e9f1c40f18"
+    },
+    {
+      "part": 121,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0121",
+      "bytes": 2097152,
+      "sha256": "284561865e001166a126348f137c49fa49c6903ccc4274130f50be1424ab8fc9"
+    },
+    {
+      "part": 122,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0122",
+      "bytes": 2097152,
+      "sha256": "849b4e5c3503e49303d83362e95a203a9bd971c5bdbc0c947b728646e3b0475d"
+    },
+    {
+      "part": 123,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0123",
+      "bytes": 2097152,
+      "sha256": "54b9291dcd6a38af1b96ce8445d5e3e8b225a493fe90f352cbb709a334c91caf"
+    },
+    {
+      "part": 124,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0124",
+      "bytes": 2097152,
+      "sha256": "73f17d3f493fc6c78ec40b3ccc8dd1517587330dccf1d6a0b2f010b95fe1df27"
+    },
+    {
+      "part": 125,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0125",
+      "bytes": 2097152,
+      "sha256": "81ab5e5d80fbc2edfea40f299040051096fd93809c8d91113a7e8103182b97a6"
+    },
+    {
+      "part": 126,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0126",
+      "bytes": 2097152,
+      "sha256": "ddded22b9ce14b688b50a8afee18c84e051a937337c865a4a291d0fdd3e25990"
+    },
+    {
+      "part": 127,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0127",
+      "bytes": 2097152,
+      "sha256": "169752789e1ae02bf5eae81e32be1ab1aa64da27e017d0acfb345d5de725420a"
+    },
+    {
+      "part": 128,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0128",
+      "bytes": 2097152,
+      "sha256": "17418cfbab880d38260059657484772aece2758660670a8bb3bc107a47f92d87"
+    },
+    {
+      "part": 129,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0129",
+      "bytes": 2097152,
+      "sha256": "17c2eadca966aeeadacff5ba1eab98b2f68387a5493669a126456069561bc24e"
+    },
+    {
+      "part": 130,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0130",
+      "bytes": 2097152,
+      "sha256": "db0a7592e7ea573c5c49129f2740b1211a3c4a3690683bd8d8d75215fdcc754e"
+    },
+    {
+      "part": 131,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0131",
+      "bytes": 2097152,
+      "sha256": "9ff4426b750419552e6a975372541df009ce9b7e290489e529a3f4fd1a4db9ca"
+    },
+    {
+      "part": 132,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0132",
+      "bytes": 2097152,
+      "sha256": "a5ea032a903f08c0ebb8628dccb5f930c261ae3127883465e5183e30047f79f8"
+    },
+    {
+      "part": 133,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0133",
+      "bytes": 2097152,
+      "sha256": "7a62031e053afba903ad1a49dffd41e9f7804cce7ff00c9dabb8da73f68417a9"
+    },
+    {
+      "part": 134,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0134",
+      "bytes": 2097152,
+      "sha256": "6965dd693a0420db2a47cede54db42c0a730b4803aff9636e2ee07901e473369"
+    },
+    {
+      "part": 135,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0135",
+      "bytes": 2097152,
+      "sha256": "276275d2c9e7723048c6de35e35f5a17980967313c59aad63b58185f5ee0c604"
+    },
+    {
+      "part": 136,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0136",
+      "bytes": 2097152,
+      "sha256": "e5f98799b1577bcca4a3fdad4dd73e854e00927ca7caa450dbffc8856ba4784a"
+    },
+    {
+      "part": 137,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0137",
+      "bytes": 2097152,
+      "sha256": "211ac39dda17cce2ce52fe36d15e99ce0e3e10fde4206aa6e40b1103da737bd1"
+    },
+    {
+      "part": 138,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0138",
+      "bytes": 2097152,
+      "sha256": "453ac393ce61db9d6b52cc8b1650164343add3129b1e649ae58e2e54839929e0"
+    },
+    {
+      "part": 139,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0139",
+      "bytes": 2097152,
+      "sha256": "9dc3b16552f97dadc359d656230e0c7b41aeb20f575b3d1a63aae12d342cd17f"
+    },
+    {
+      "part": 140,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0140",
+      "bytes": 2097152,
+      "sha256": "850de69cd5bc1eb6cd72c6e195a7bd61dee0fe3e25550ec5a563327830345d16"
+    },
+    {
+      "part": 141,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0141",
+      "bytes": 2097152,
+      "sha256": "0cbe5f1b5ea1aad523b28a3bbd6f0ced1efc38c7ef12dd9c9d74c6b9beb385ad"
+    },
+    {
+      "part": 142,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0142",
+      "bytes": 2097152,
+      "sha256": "211c646b43d1c5bc0b17f1290746e1cb5e013a121585e227aa28b1fe6275b27e"
+    },
+    {
+      "part": 143,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0143",
+      "bytes": 2097152,
+      "sha256": "ffb6a448796605515ef906cf5e4c40d98e9a6316c03c24d97554e72dc6f21ef1"
+    },
+    {
+      "part": 144,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0144",
+      "bytes": 2097152,
+      "sha256": "21a88819cd796c02edc092d4bb80db23e1350b0e1a517a15bb4c1c9e9d0dc519"
+    },
+    {
+      "part": 145,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0145",
+      "bytes": 2097152,
+      "sha256": "01c8ab20d6386bb97a7f39f78a0098ccb238ca0d5f7f7280edfc0e777637136b"
+    },
+    {
+      "part": 146,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0146",
+      "bytes": 2097152,
+      "sha256": "c9814cba23a0b934df4b59ce12d0ca5299a524eafd4c2e1432d23e9daf101fea"
+    },
+    {
+      "part": 147,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0147",
+      "bytes": 2097152,
+      "sha256": "791bb7728cd308c8a79444537c2b376d0525a06545a477098f7dc2696ddfc85c"
+    },
+    {
+      "part": 148,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0148",
+      "bytes": 2097152,
+      "sha256": "db94b95c7a040bb76f02b7e781c96fbb6245a48dc983c57c4d755055163fe353"
+    },
+    {
+      "part": 149,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0149",
+      "bytes": 2097152,
+      "sha256": "efe7fb734bf9e87c735f3461c4d578fbee4579c3fc66ff626fd2fab91f208ed7"
+    },
+    {
+      "part": 150,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0150",
+      "bytes": 2097152,
+      "sha256": "4546e60c565a0a50fa84cf5f2915b632deafe5e3d6bb55a9cf575f90d85897e6"
+    },
+    {
+      "part": 151,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0151",
+      "bytes": 2097152,
+      "sha256": "aa4e6f4f563ccea1566788e9060ad30f10a40f3f3ebdd3ad2493fe923ce094f8"
+    },
+    {
+      "part": 152,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0152",
+      "bytes": 2097152,
+      "sha256": "6c828a1feb603464e6d4819876cfab7287c736ebc3dcb7f3c89279eaf5d117b8"
+    },
+    {
+      "part": 153,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0153",
+      "bytes": 2097152,
+      "sha256": "d31c55fab067d75088261488d732c49dcbdcc0b57186b309be198601e8f3fc5b"
+    },
+    {
+      "part": 154,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0154",
+      "bytes": 2097152,
+      "sha256": "5c9d961df0aef312097ac3b4b83a93ea19d756f80d93fa6c7f3bd398d077128e"
+    },
+    {
+      "part": 155,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0155",
+      "bytes": 2097152,
+      "sha256": "2554664c4e5f90b868da19d0ce2f54c8f802fae5b2f3e1f1262ecd5a72eb9851"
+    },
+    {
+      "part": 156,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0156",
+      "bytes": 2097152,
+      "sha256": "dfa9132824859e7319544062336b50d2c9fc1c0d25b282ae89e384732b8b95b2"
+    },
+    {
+      "part": 157,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0157",
+      "bytes": 2097152,
+      "sha256": "f5da3cb588a60627e3e4f9c3c7e8dbad8eb97a905102e768128cf68995b5e692"
+    },
+    {
+      "part": 158,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0158",
+      "bytes": 2097152,
+      "sha256": "323a77890b9cfd8672ea49cc68f7065523cc76b9f062e48e4081b59f86726e8f"
+    },
+    {
+      "part": 159,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0159",
+      "bytes": 2097152,
+      "sha256": "bd2a8c0812b7be71fd3b6bc23a239b95d92ef6cb34cb94a31f94dee1b9d6fed4"
+    },
+    {
+      "part": 160,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0160",
+      "bytes": 2097152,
+      "sha256": "3eb99e90e36f873ccabb32c836e9af86b5b3d6a984d1f60911437c341a9d9d08"
+    },
+    {
+      "part": 161,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0161",
+      "bytes": 2097152,
+      "sha256": "26bee618e8d7a6c6458b8eb9da1e7ed94ef558d9535b3b55dd370371b040e759"
+    },
+    {
+      "part": 162,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0162",
+      "bytes": 2097152,
+      "sha256": "d34fb88ef6334a140b7775e1ea143b311708bc72c480b49c8ed60883f7c33538"
+    },
+    {
+      "part": 163,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0163",
+      "bytes": 2097152,
+      "sha256": "fd80d34a0fb326c77aacae509f99be3da084d5bca2ca3203a430021110d8355f"
+    },
+    {
+      "part": 164,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0164",
+      "bytes": 2097152,
+      "sha256": "374fc9b65b131fa84aee4ce81c23ef5467fa622aba29d619c52cff1b03b144af"
+    },
+    {
+      "part": 165,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0165",
+      "bytes": 2097152,
+      "sha256": "52b87409209af6e5733b42a46ea7b171c68b3cc0b0f09ed2f42e972e25e03d13"
+    },
+    {
+      "part": 166,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0166",
+      "bytes": 2097152,
+      "sha256": "a1493b268f6977792627a9d8dbde5b389066dd12c2a61fdc7aff6c0b6c06b3e8"
+    },
+    {
+      "part": 167,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0167",
+      "bytes": 2097152,
+      "sha256": "7cf0e3fc274244313955cbab4f9d2c12d937b179404294de05a5448639eced34"
+    },
+    {
+      "part": 168,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0168",
+      "bytes": 2097152,
+      "sha256": "7ed998a0debf9a1bf99db407c7f7ab0e1b131641ee6c4ae896ad51e983b2d4db"
+    },
+    {
+      "part": 169,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0169",
+      "bytes": 2097152,
+      "sha256": "bbf7e0d624f994c7357ee7bd4c7a2c5659ef51b77fef0987f1fefd79cb204092"
+    },
+    {
+      "part": 170,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0170",
+      "bytes": 2097152,
+      "sha256": "1161e2227d3d7963ee1bd27d01827436d0009afedfbd606d558e30c55e0a72fd"
+    },
+    {
+      "part": 171,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0171",
+      "bytes": 2097152,
+      "sha256": "423e22148b19905bec672d1f1300f63535dea5cbdfbe0739521010451de8904c"
+    },
+    {
+      "part": 172,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0172",
+      "bytes": 2097152,
+      "sha256": "87282483fa0fb649c7d862910e1e2130aa2cde47cdc5c51475286dd92c0246af"
+    },
+    {
+      "part": 173,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0173",
+      "bytes": 2097152,
+      "sha256": "cf4e30cc008568b3f17e9ca6c3ed8aa9961afaac82b9527f160e6c95986c5f70"
+    },
+    {
+      "part": 174,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0174",
+      "bytes": 2097152,
+      "sha256": "f1111234d596e2996cbfc9ab4898a0c0235e49bc6d4a162c5ea050cb4164b3bc"
+    },
+    {
+      "part": 175,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0175",
+      "bytes": 2097152,
+      "sha256": "d6bbe78f0e3d867062cd82812b8557cf050aac355df555b0838ae398ea700097"
+    },
+    {
+      "part": 176,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0176",
+      "bytes": 2097152,
+      "sha256": "84863865ba6391409017e501af1d1414cff50561b8a143095a1b43b217b23deb"
+    },
+    {
+      "part": 177,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0177",
+      "bytes": 2097152,
+      "sha256": "7b2d54df58b2ccb6fe614022500f787610c282c9caab3a7a41433e354ac13c20"
+    },
+    {
+      "part": 178,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0178",
+      "bytes": 2097152,
+      "sha256": "f290aa3714078accaac7aaf21243c5541b0ae218775d2bb8a4e6552f32bfc1ee"
+    },
+    {
+      "part": 179,
+      "batch": 2,
+      "name": "mtp-rt.tar.gz.part-0179",
+      "bytes": 2097152,
+      "sha256": "8f4dad45fe2fcb0674e33cea437a59de34e7ed180652d6ab0a2b6b4dbcc7eefe"
+    },
+    {
+      "part": 180,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0180",
+      "bytes": 2097152,
+      "sha256": "7d83362a4867434c0c63c781d4599e27eab5616de9dfd2426d4e9a7f3fcf4217"
+    },
+    {
+      "part": 181,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0181",
+      "bytes": 2097152,
+      "sha256": "90c6164df1edd2b5dbbc6c27dd0b08e6a09807b28b3c0b2cb22f875dc881c429"
+    },
+    {
+      "part": 182,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0182",
+      "bytes": 2097152,
+      "sha256": "beb1ddd9006d4dc4ba57bd296882a2b3007a84b6c838364c301bfb17adafd3a2"
+    },
+    {
+      "part": 183,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0183",
+      "bytes": 2097152,
+      "sha256": "421a79c00ab89f9627c05241ff3df58c200ebe93df3f16f7395c57ede233c209"
+    },
+    {
+      "part": 184,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0184",
+      "bytes": 2097152,
+      "sha256": "59e8a1feec36d443d7e19d9cc56976fd278da7bcd83e2db1169b6408bea7e006"
+    },
+    {
+      "part": 185,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0185",
+      "bytes": 2097152,
+      "sha256": "bf47741cbe2aa6866e95300b863c3edd29fdecaa4015cbd1523c00a1868cc7b4"
+    },
+    {
+      "part": 186,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0186",
+      "bytes": 2097152,
+      "sha256": "72484b1e9bf17530c02a26d41af7165739e8b426eb7a82b8d082f94902e50959"
+    },
+    {
+      "part": 187,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0187",
+      "bytes": 2097152,
+      "sha256": "b69492b9ea1ef93c7390e1ee1d0fa3fdd7a9588f111b2e1527119b8544eada9c"
+    },
+    {
+      "part": 188,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0188",
+      "bytes": 2097152,
+      "sha256": "6af993ff9210e47bde67a20f74eea8d3853aa0c68b9d66bb677efe2afe432f54"
+    },
+    {
+      "part": 189,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0189",
+      "bytes": 2097152,
+      "sha256": "8042d9e17302f1e804d8d7b8d04b82537b07029f4fc502c17b004cce5a528b84"
+    },
+    {
+      "part": 190,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0190",
+      "bytes": 2097152,
+      "sha256": "85cddb8f6edd649ec157ddb6c7022e44851cc04343ed52ca085930a2b8869925"
+    },
+    {
+      "part": 191,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0191",
+      "bytes": 2097152,
+      "sha256": "c0b795d1e8c5c3728d74cecace0eefa82854a9a944036fe4d3f7ad12a7aa8c0f"
+    },
+    {
+      "part": 192,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0192",
+      "bytes": 2097152,
+      "sha256": "ef6373c0dc5865632fa47e0fe966cf01b1bfb20c6ba24da39c702c370a692ed7"
+    },
+    {
+      "part": 193,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0193",
+      "bytes": 2097152,
+      "sha256": "4c8ff35304b6333165734e689c7002b62b00f15248f8b59a93cd49a3cb3cef9b"
+    },
+    {
+      "part": 194,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0194",
+      "bytes": 2097152,
+      "sha256": "d425f4365c9e6d07e09c1d6861950a04a84a6ad13600f48c63c7e4e41be2ee96"
+    },
+    {
+      "part": 195,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0195",
+      "bytes": 2097152,
+      "sha256": "d0b87dedfad4a8e9f0dc9b4765d7c323bf854c5c3796dc61750cd47c1773a94d"
+    },
+    {
+      "part": 196,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0196",
+      "bytes": 2097152,
+      "sha256": "bd9d8ef03daf4eb25399e8988a0b5023836b594a78d546e88a8d2b37f9196fc7"
+    },
+    {
+      "part": 197,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0197",
+      "bytes": 2097152,
+      "sha256": "bf1491fc88179fe8c7dcc66f6521f3f3b3780ed91552bf4493b2cf4bffaebb12"
+    },
+    {
+      "part": 198,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0198",
+      "bytes": 2097152,
+      "sha256": "4ccb90366d9e6385b88b272a10dc4c31905315c33647ed7fd25fda2fed1a76e8"
+    },
+    {
+      "part": 199,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0199",
+      "bytes": 2097152,
+      "sha256": "a0852a7c259759ded7516b72efa2a60b02dcd374efb60aa5e53cb160c0e15dcc"
+    },
+    {
+      "part": 200,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0200",
+      "bytes": 2097152,
+      "sha256": "7147183555dc1a8094c44453ecc5d41e2e7ad1f67fc5d60599dc0ce843a35768"
+    },
+    {
+      "part": 201,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0201",
+      "bytes": 2097152,
+      "sha256": "815d3b91fbf7272ccb81f1682c3827ec0e831891269b42507e80fda890d4b8ef"
+    },
+    {
+      "part": 202,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0202",
+      "bytes": 2097152,
+      "sha256": "a3ef23f3fa027069212da0031ed448b1e433c138b81d2fbc26b47c4c8f09fe4f"
+    },
+    {
+      "part": 203,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0203",
+      "bytes": 2097152,
+      "sha256": "83744b9b70a24e6d204fdc9e8aab8a4b02f12255584db255f835c67ba3767027"
+    },
+    {
+      "part": 204,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0204",
+      "bytes": 2097152,
+      "sha256": "6d0df2fbe7f33775805b2221dcc5dd5ca5bf4d48116152a4408f3d45a9f16e92"
+    },
+    {
+      "part": 205,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0205",
+      "bytes": 2097152,
+      "sha256": "01f692781c9d7a1a1d37859035152582512910861bc261137c8bab0d46367262"
+    },
+    {
+      "part": 206,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0206",
+      "bytes": 2097152,
+      "sha256": "7abfb6d6446af30cbd5b8a5c0e08680682dbfc82e3043757b751abaf9d893f8a"
+    },
+    {
+      "part": 207,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0207",
+      "bytes": 2097152,
+      "sha256": "5547ac42e1fa102cdd5234a3db862c6cb85324d0b074c8a0d3528b52cbdd974c"
+    },
+    {
+      "part": 208,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0208",
+      "bytes": 2097152,
+      "sha256": "7dc3f29ffc49394f9d4844bebf3b2257594ede14e4027055a4b8e9f49ad51742"
+    },
+    {
+      "part": 209,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0209",
+      "bytes": 2097152,
+      "sha256": "0579137de1b9731e74c9a305bf614b00b75f1a7bb4c555a4a699a7ed49bcbea1"
+    },
+    {
+      "part": 210,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0210",
+      "bytes": 2097152,
+      "sha256": "67a7d63f3a96c755e74e024929a8a27f562bf10c1e3f66b6b12a36805221c4d2"
+    },
+    {
+      "part": 211,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0211",
+      "bytes": 2097152,
+      "sha256": "ce5f4828e26b5e8564e037b9c894a9e71623ee6486a560792debb1b6cd9f39f2"
+    },
+    {
+      "part": 212,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0212",
+      "bytes": 2097152,
+      "sha256": "91044d8e33b0bdd976f74b4c2c88f6b7aa508fc24deaf02e1e14aef4a090a226"
+    },
+    {
+      "part": 213,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0213",
+      "bytes": 2097152,
+      "sha256": "d4793936856b929e87f146ca9c6ee44c6debab4967ea18c8ca2aa50e6f267ce7"
+    },
+    {
+      "part": 214,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0214",
+      "bytes": 2097152,
+      "sha256": "1271272403397a50954e8cf52a926c0866ddfafc9ec69c63f73db176cbafa7ac"
+    },
+    {
+      "part": 215,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0215",
+      "bytes": 2097152,
+      "sha256": "f9546842b2e28e7fd1f6c6ff079317bcf527ca8a2c42ccc3c6c4c61384a6746a"
+    },
+    {
+      "part": 216,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0216",
+      "bytes": 2097152,
+      "sha256": "7633a28a55f94855733dcc9d53f8f0b6a4cf36c77730293e1233f70859dc4a78"
+    },
+    {
+      "part": 217,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0217",
+      "bytes": 2097152,
+      "sha256": "33d2109ff765c9b0a3c4c054534e93d788991c04daa91d084a12f0bab716680e"
+    },
+    {
+      "part": 218,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0218",
+      "bytes": 2097152,
+      "sha256": "e97f53a075cd60c534356a16a7d586c1b7b1c1c94749a48e2c72ce5cc11bcc80"
+    },
+    {
+      "part": 219,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0219",
+      "bytes": 2097152,
+      "sha256": "e54649904ebc9ca3742920758a8edc234954a421b5bbc355fbe51a42425ceeb9"
+    },
+    {
+      "part": 220,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0220",
+      "bytes": 2097152,
+      "sha256": "f46d8d274105f8ef314953482b44a08bee6449520d71d3941af468b1a8c5d773"
+    },
+    {
+      "part": 221,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0221",
+      "bytes": 2097152,
+      "sha256": "b5fca554be19ecab1b3475bb502285711884d10e67f7d2400b8f0d531c084446"
+    },
+    {
+      "part": 222,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0222",
+      "bytes": 2097152,
+      "sha256": "ac524fc1bf095c1aa112ad28ab217b021730b8e4b0b2b1cc7b7de921d94785a4"
+    },
+    {
+      "part": 223,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0223",
+      "bytes": 2097152,
+      "sha256": "d9164d7f09cccb7d2ff4e2b5a7cb134f89db1c1f697bb825c365faddf87813de"
+    },
+    {
+      "part": 224,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0224",
+      "bytes": 2097152,
+      "sha256": "5f5636c3c950ae585468baf50f1dfc19a9a8fcf4fc52bf68535bf57ef5fda571"
+    },
+    {
+      "part": 225,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0225",
+      "bytes": 2097152,
+      "sha256": "f160fa88439230e9192904516b70b2738216606de08de0fa18d40e2837be7dff"
+    },
+    {
+      "part": 226,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0226",
+      "bytes": 2097152,
+      "sha256": "78c366dd5d18c9a9c8e7fa42a3a3f9fec9fb042a76fe534bcddd23c39faa1bf5"
+    },
+    {
+      "part": 227,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0227",
+      "bytes": 2097152,
+      "sha256": "bcf3a7febae158732ccb1c857e89ce546dfeecc501944ef25f3e73650aa9bfc8"
+    },
+    {
+      "part": 228,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0228",
+      "bytes": 2097152,
+      "sha256": "b2dd0d30fc056a4ce001790213acf69bcc03dc7019e84fbf9370e06cc8b3fa87"
+    },
+    {
+      "part": 229,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0229",
+      "bytes": 2097152,
+      "sha256": "ed48cca03989904c5940070e7b92a7721f0ee5c6790366da52b4bfd8ce725899"
+    },
+    {
+      "part": 230,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0230",
+      "bytes": 2097152,
+      "sha256": "06823e95341835bf144e3fe8fc027477445c0d801557d7009aafa5c227137f04"
+    },
+    {
+      "part": 231,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0231",
+      "bytes": 2097152,
+      "sha256": "49b88bea3d2b067dcc1faf400c900b9209bb38b6a8441e4a26ab73f34ee471d4"
+    },
+    {
+      "part": 232,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0232",
+      "bytes": 2097152,
+      "sha256": "f72c14b39f84c3915c10a0949f6e27dc8e6a22669f86d6e7db1fb339656cb9ec"
+    },
+    {
+      "part": 233,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0233",
+      "bytes": 2097152,
+      "sha256": "99a4b87204073799617a08e2b776716ab5280570f24f829797884e377125476c"
+    },
+    {
+      "part": 234,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0234",
+      "bytes": 2097152,
+      "sha256": "da4d51cb8f913e6344cc80cb69bc21935bfa5e9cf77930b9d58122f0b3a1a8c1"
+    },
+    {
+      "part": 235,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0235",
+      "bytes": 2097152,
+      "sha256": "82bb562d822363c77034cafd8afdd48b9e49f24971a163a38086b809158c5550"
+    },
+    {
+      "part": 236,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0236",
+      "bytes": 2097152,
+      "sha256": "6b09b2014cf84576991a0eb3cb8291dfabfc21b5e3bc9ad9d0d04d28fe44fa5e"
+    },
+    {
+      "part": 237,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0237",
+      "bytes": 2097152,
+      "sha256": "77a452fcb05a6f02bbc240d0ef0613f5284e26f7436c0634950cf24b03251734"
+    },
+    {
+      "part": 238,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0238",
+      "bytes": 2097152,
+      "sha256": "b414cdbcb31a6a63796cc3768d3e247a00747e73ebdcdc556a9f359280a932a4"
+    },
+    {
+      "part": 239,
+      "batch": 3,
+      "name": "mtp-rt.tar.gz.part-0239",
+      "bytes": 2097152,
+      "sha256": "cb3766de8c98103497ccf6350344fd049afbcb3af07f6c93947f5d25805f3eb7"
+    },
+    {
+      "part": 240,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0240",
+      "bytes": 2097152,
+      "sha256": "be3346d7b00f8b6bc5f3d605019e8416601a47c30a3bdadb0d03426293b80bfb"
+    },
+    {
+      "part": 241,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0241",
+      "bytes": 2097152,
+      "sha256": "95e17d72015df839247a04bbc1e832e1159c1f9ef736587d9675dfd0f8be7066"
+    },
+    {
+      "part": 242,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0242",
+      "bytes": 2097152,
+      "sha256": "8e253f7b982b41e8956a0d5e2d24dd7ed6758296357712956ba801c530cda967"
+    },
+    {
+      "part": 243,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0243",
+      "bytes": 2097152,
+      "sha256": "d952eaa1058eb2ef27bdf2be1c8711a420f7cb440315fe8a639c25b358a80106"
+    },
+    {
+      "part": 244,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0244",
+      "bytes": 2097152,
+      "sha256": "5faf24f4b60ead2dd6da8f3760e9fd254169d97d525e46550123a4653ba839ea"
+    },
+    {
+      "part": 245,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0245",
+      "bytes": 2097152,
+      "sha256": "7dfa54fe11f23812b7f7e80b80f177534253d55375e9d2ab9ac1337a66e2ce25"
+    },
+    {
+      "part": 246,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0246",
+      "bytes": 2097152,
+      "sha256": "9590c37182c9edc6e76cebffd84e459882ddbd3ee7034a48c5e8668bceae4a68"
+    },
+    {
+      "part": 247,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0247",
+      "bytes": 2097152,
+      "sha256": "1669faca342c0d31aaffab073ba1006f36b00ae83a6b224b2b751c2395dea7e7"
+    },
+    {
+      "part": 248,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0248",
+      "bytes": 2097152,
+      "sha256": "ff904005705f9bf7b67e6a9f26752772c16e490e0a9999d34cbe204614a77225"
+    },
+    {
+      "part": 249,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0249",
+      "bytes": 2097152,
+      "sha256": "5b076ee8c47f46c55990682ae7bd5392270f9a0a857bb471e1ff81c3546e9afd"
+    },
+    {
+      "part": 250,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0250",
+      "bytes": 2097152,
+      "sha256": "76f28fed9d56927727ee774293b929066ff0f61c14c3b728c3ebe2397b3da963"
+    },
+    {
+      "part": 251,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0251",
+      "bytes": 2097152,
+      "sha256": "cd446f5e52b2be13e9fbb0bcc49164c7242344b6c43b282c1bb45500bb76ce15"
+    },
+    {
+      "part": 252,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0252",
+      "bytes": 2097152,
+      "sha256": "0f53b2c6735920024a49f0693bfdef90f68c835f9aebbb2974b36df25b56291c"
+    },
+    {
+      "part": 253,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0253",
+      "bytes": 2097152,
+      "sha256": "4e2e3e27053d6fc2ed8533b772f850565d00da377f1560de576be1189d965ef2"
+    },
+    {
+      "part": 254,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0254",
+      "bytes": 2097152,
+      "sha256": "a2a5cff77c874595220002acedbc8681b2e9d2de5eb2deb69fc479d146821095"
+    },
+    {
+      "part": 255,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0255",
+      "bytes": 2097152,
+      "sha256": "a9c6efb827f47bf0c249ecfaf4dc06bbb9f9102251c31fca784a5481140b70d3"
+    },
+    {
+      "part": 256,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0256",
+      "bytes": 2097152,
+      "sha256": "d241b0fb4d354abfcfaa3ff902413778e049d8c710baeeb66be1101312d5808f"
+    },
+    {
+      "part": 257,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0257",
+      "bytes": 2097152,
+      "sha256": "c58fc4027f212ecd868e5ba68d679d8da00f9f61c1bb1a3940ee0b63a7ccac58"
+    },
+    {
+      "part": 258,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0258",
+      "bytes": 2097152,
+      "sha256": "f69f17bad3da4a0dbee67f92c81c3fd8bf0f400892846559565f78106e1170fc"
+    },
+    {
+      "part": 259,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0259",
+      "bytes": 2097152,
+      "sha256": "fcd4286f73286de85eff6f7c1ea103818cf6199c076d4ca3b6121ed64f7d0554"
+    },
+    {
+      "part": 260,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0260",
+      "bytes": 2097152,
+      "sha256": "4a91f0352b7d6bac9065d90c2d426e511213a5060befc73e7bd38505780e8a74"
+    },
+    {
+      "part": 261,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0261",
+      "bytes": 2097152,
+      "sha256": "087fc068aa0c819c77a25809c66236d1c5c8b88e972aa64c386e915cc4b397fc"
+    },
+    {
+      "part": 262,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0262",
+      "bytes": 2097152,
+      "sha256": "b987f0907b92127434f3ac5abfab9487a85713825e79c8c4f067bc0bc5601705"
+    },
+    {
+      "part": 263,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0263",
+      "bytes": 2097152,
+      "sha256": "d29e0c54117f3ac655fd71aa7200eddfa1398c8e3d88f4891635ab393453bc45"
+    },
+    {
+      "part": 264,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0264",
+      "bytes": 2097152,
+      "sha256": "f67ec45d5b370620f2c2a3318e76cbbccea72c8ace80e44b2de744bc5567c970"
+    },
+    {
+      "part": 265,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0265",
+      "bytes": 2097152,
+      "sha256": "119a3229e6f3285980e564aeb94ae5d1f5cdb3074e37fa9d4acd701ecacfba42"
+    },
+    {
+      "part": 266,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0266",
+      "bytes": 2097152,
+      "sha256": "48147a9c63f9f7d5c59ae96fa44156e57477d5ba20286047a7a3f4e1697e3b4d"
+    },
+    {
+      "part": 267,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0267",
+      "bytes": 2097152,
+      "sha256": "7a71b3da0b2dd0373a4f092ba9d492e565f17247f281a0a305d386b69bd83ddd"
+    },
+    {
+      "part": 268,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0268",
+      "bytes": 2097152,
+      "sha256": "76c0112afbf8d328d80b5403a9483e71908de461c22d584cd1a8533950fd0e65"
+    },
+    {
+      "part": 269,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0269",
+      "bytes": 2097152,
+      "sha256": "c501436fe56c55556a72b53f142df4df18daa15b6375ce71b73b88ab1a2461ae"
+    },
+    {
+      "part": 270,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0270",
+      "bytes": 2097152,
+      "sha256": "f4caf67e61b97e8a1352fcca193329010f3a38d5bb750cdbef796ad9af91cb38"
+    },
+    {
+      "part": 271,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0271",
+      "bytes": 2097152,
+      "sha256": "4879ff8b59bdc596be5b0c207d1ce41cd9199aa82d3d52c7fddcc48e848b34ea"
+    },
+    {
+      "part": 272,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0272",
+      "bytes": 2097152,
+      "sha256": "14bbe2ab05fd3e1b0272148835bdaea84a46ef8f78c0b6a96ac9dc0e626e4bcd"
+    },
+    {
+      "part": 273,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0273",
+      "bytes": 2097152,
+      "sha256": "fcffef10f75b301576633611d9f264f077985585f8b8590dca7864ae66c5eb40"
+    },
+    {
+      "part": 274,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0274",
+      "bytes": 2097152,
+      "sha256": "2abec2eaa6b72ea87402c5df49082c842d78bb9678e203cbcfd37583f180ec39"
+    },
+    {
+      "part": 275,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0275",
+      "bytes": 2097152,
+      "sha256": "17462c5cd4ddc42706da3eb49c9ad37ebdc964d3228e6e308bacbcb2e28c724d"
+    },
+    {
+      "part": 276,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0276",
+      "bytes": 2097152,
+      "sha256": "168a90510b6bb8ca6961d8e42917ee95121d6884364a18fd727be1acdab58119"
+    },
+    {
+      "part": 277,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0277",
+      "bytes": 2097152,
+      "sha256": "df8041f42ebf273d7d3cebec51993a58e1e9a66229aa904017686cb0dbcf602b"
+    },
+    {
+      "part": 278,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0278",
+      "bytes": 2097152,
+      "sha256": "018b3c14439df29358c8de82a642111feb59455fcf169c8542ddfdf2d667f8a0"
+    },
+    {
+      "part": 279,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0279",
+      "bytes": 2097152,
+      "sha256": "8a9cc5adf9b671edc6a1017b231819b77e009c7a6dc667f0147bb14594818bec"
+    },
+    {
+      "part": 280,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0280",
+      "bytes": 2097152,
+      "sha256": "31ea2097e163ec8a5ce96d27d815c8640e06a96cb511afefb3ec18c32e7f2609"
+    },
+    {
+      "part": 281,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0281",
+      "bytes": 2097152,
+      "sha256": "2eebd12889be295831b534d7078bf4a0acf0d66a3ea4cb4485c19cec31530b97"
+    },
+    {
+      "part": 282,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0282",
+      "bytes": 2097152,
+      "sha256": "840605c0d2b49a52a593e6d49db7185fc618107597da52429a41d0501ae2da0a"
+    },
+    {
+      "part": 283,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0283",
+      "bytes": 2097152,
+      "sha256": "9fc949cac4aac8ab0d501a81816e99afb27e28c22901b43d91a231335ec033ff"
+    },
+    {
+      "part": 284,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0284",
+      "bytes": 2097152,
+      "sha256": "8ebdcdb9eb3d091c30a1e80d89f93933d63618b80958c3ac33493790d73e93dd"
+    },
+    {
+      "part": 285,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0285",
+      "bytes": 2097152,
+      "sha256": "2b8f1f21e2b76db21205264ba054953b77933fee3e8469af1f338f76d7eb7621"
+    },
+    {
+      "part": 286,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0286",
+      "bytes": 2097152,
+      "sha256": "2eed118d2100c915e737836c8c984ffb7ed422fc208e2b5af5e8aa6751ac292a"
+    },
+    {
+      "part": 287,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0287",
+      "bytes": 2097152,
+      "sha256": "3e255655e7ebc40ed78fe585dc51b6399bbc2b09789e45be51a94465509c663e"
+    },
+    {
+      "part": 288,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0288",
+      "bytes": 2097152,
+      "sha256": "509178eb7c166071198c2a0c304abf2339ce3e789f87ff532be435f227fb3bca"
+    },
+    {
+      "part": 289,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0289",
+      "bytes": 2097152,
+      "sha256": "b5834974e44be76b180d474d7ac2879192a143ef541d5d000ab87c4aeff386d2"
+    },
+    {
+      "part": 290,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0290",
+      "bytes": 2097152,
+      "sha256": "5f608a972cfb1d0a56a144e1cb47adbbbccb412655b953e8546be2644a6adb42"
+    },
+    {
+      "part": 291,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0291",
+      "bytes": 2097152,
+      "sha256": "e84e50ac440b7104c3c00da6bb8a8e4ab7a8f866965eb14a2e9a13cfc177e50a"
+    },
+    {
+      "part": 292,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0292",
+      "bytes": 2097152,
+      "sha256": "4806c6c2350b2d9ab10848ccaaeca5d89fa7bee39911a4d45ea3b13e23a3a44a"
+    },
+    {
+      "part": 293,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0293",
+      "bytes": 2097152,
+      "sha256": "b2780cdaa0bd090f5bd74a1a15bdf19dda503e60fbc8cb959aefb5dff7860e78"
+    },
+    {
+      "part": 294,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0294",
+      "bytes": 2097152,
+      "sha256": "06c9ba59997b0aca6dfb0030fb3976f283112db3baf76abc0c52c1726a56909e"
+    },
+    {
+      "part": 295,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0295",
+      "bytes": 2097152,
+      "sha256": "e20717e72ace047d2e6fd076ff09c56d40bbc896552d918faace44743dda412d"
+    },
+    {
+      "part": 296,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0296",
+      "bytes": 2097152,
+      "sha256": "31134ccb93bdb5e3453a91bb66320117004ac5cfd364efd73d3a01e52968f673"
+    },
+    {
+      "part": 297,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0297",
+      "bytes": 2097152,
+      "sha256": "808273fa2854e252ee8fc60fa597021127559ee32aedc683c5d181e65ef38f92"
+    },
+    {
+      "part": 298,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0298",
+      "bytes": 2097152,
+      "sha256": "12d0e6da9548c220f0a3aa360d157274e26fdc884bd8ee1eaa0b0dede7e46b30"
+    },
+    {
+      "part": 299,
+      "batch": 4,
+      "name": "mtp-rt.tar.gz.part-0299",
+      "bytes": 2097152,
+      "sha256": "0cbc3c934c299345371fd12594956bc5f659e76e160da2ae70ea14fedd56e150"
+    },
+    {
+      "part": 300,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0300",
+      "bytes": 2097152,
+      "sha256": "8ae4aa5f78228bda4c8cac8286c30ba10bf2b5ba1e7d4315d382aeb9eedb8fb4"
+    },
+    {
+      "part": 301,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0301",
+      "bytes": 2097152,
+      "sha256": "0807085d74372846788ff2b70a7b82235a5cecad6bed35c02d3514c19a2a7fa0"
+    },
+    {
+      "part": 302,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0302",
+      "bytes": 2097152,
+      "sha256": "bdf8f637a0a196f67fa7f7aad12aebbdd972e17fab469ecf4fb9a940236169b5"
+    },
+    {
+      "part": 303,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0303",
+      "bytes": 2097152,
+      "sha256": "e73b54fc64a580da03e88313bf27f40a3dc690da9f56d3b7e82e3d3bc6ef8916"
+    },
+    {
+      "part": 304,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0304",
+      "bytes": 2097152,
+      "sha256": "7cf0cfee14185b908882242cc37f622072e6e46e2ae51d6c3374a6033725b9a6"
+    },
+    {
+      "part": 305,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0305",
+      "bytes": 2097152,
+      "sha256": "f76d93c7fbe836dab63be360b64e6805e5894537072f78c4e787fa2d77fbf3d7"
+    },
+    {
+      "part": 306,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0306",
+      "bytes": 2097152,
+      "sha256": "e9dfeb4fd81ad342485303e0fe301c803bc6af5bf8ab843ac6b50bb2eaffe69e"
+    },
+    {
+      "part": 307,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0307",
+      "bytes": 2097152,
+      "sha256": "f8f8a9e6a187a6140d29987dc659662bbab440b6e6384074d94ec5c8d898329a"
+    },
+    {
+      "part": 308,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0308",
+      "bytes": 2097152,
+      "sha256": "b4fd87ad05a446498c52d54a1458218725e5c5b77a582a77aaddf6085021f2ee"
+    },
+    {
+      "part": 309,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0309",
+      "bytes": 2097152,
+      "sha256": "e042e3e4d2840acd787bc6a104071adfc42a20c9401f48337bb99c253a12eef1"
+    },
+    {
+      "part": 310,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0310",
+      "bytes": 2097152,
+      "sha256": "ea950dd41cb0fb70ee747721565074c13148fd2730c4934a023a36a27e305f97"
+    },
+    {
+      "part": 311,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0311",
+      "bytes": 2097152,
+      "sha256": "521f33a88708d542184bdf7f3e052e0a125a1ffeb6dbe6cc82d0167f50defa8e"
+    },
+    {
+      "part": 312,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0312",
+      "bytes": 2097152,
+      "sha256": "693bd32fc37916290088696e41ce51898f4ee6fa838b964becf0bd0047eff311"
+    },
+    {
+      "part": 313,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0313",
+      "bytes": 2097152,
+      "sha256": "c11183ab4e937d5501405679e3f68b30bce85784cec185f5b1b203c8ec217927"
+    },
+    {
+      "part": 314,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0314",
+      "bytes": 2097152,
+      "sha256": "3d29450e853db4ee373003b2df2ef10c14c280d0430af65dde8ae2e9de8d8ab8"
+    },
+    {
+      "part": 315,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0315",
+      "bytes": 2097152,
+      "sha256": "daab85aa55e66f1ed5f8b0648b1e86fe188ddd54a724e59d61d75046d7ab18c1"
+    },
+    {
+      "part": 316,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0316",
+      "bytes": 2097152,
+      "sha256": "343cfab26dbddef843f65227ec32cbcc34219becf07fa83dbce3c09ebf26a66a"
+    },
+    {
+      "part": 317,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0317",
+      "bytes": 2097152,
+      "sha256": "4f05d59ae6a437482046df8fddc411f9e99b334358646e1b1e3428fb4866c85f"
+    },
+    {
+      "part": 318,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0318",
+      "bytes": 2097152,
+      "sha256": "47284577cd4aa20ea25a71fa1c3dd80d7c35f635661e006e40ba3ae22f3fd0e8"
+    },
+    {
+      "part": 319,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0319",
+      "bytes": 2097152,
+      "sha256": "d64bce683f1ccc6ef9dcf409535c84cfc3238270a233300f86dcc3bd9ce1bccb"
+    },
+    {
+      "part": 320,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0320",
+      "bytes": 2097152,
+      "sha256": "05e83df9693eceff8d0e52bc37fe2e510e8cb08c67cb4ebdc442c3606418e482"
+    },
+    {
+      "part": 321,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0321",
+      "bytes": 2097152,
+      "sha256": "9588c584d51ed64bbfc58dd63b6016670500f91925651674543b954975f0f017"
+    },
+    {
+      "part": 322,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0322",
+      "bytes": 2097152,
+      "sha256": "ecea80b298d15b62781b728ac4ca9cf6dc1af099aad3f504ebf9c4e06cdcb9bc"
+    },
+    {
+      "part": 323,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0323",
+      "bytes": 2097152,
+      "sha256": "f7401041258721e59f908dab8ac5c89bc80777e98783fe9b4746f959d865e21e"
+    },
+    {
+      "part": 324,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0324",
+      "bytes": 2097152,
+      "sha256": "b66340511292c93d2b06a94ac71098d8e4dda3b1efff6df0a158e51a968bdc2c"
+    },
+    {
+      "part": 325,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0325",
+      "bytes": 2097152,
+      "sha256": "09f1603e8bfc7b08f06d6c8754567b4e62f5cafa8153d854b47b4494e45804c7"
+    },
+    {
+      "part": 326,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0326",
+      "bytes": 2097152,
+      "sha256": "7db94b091d0748c7459780a802daa5235ca3509f87b063231325d2d89fe0d3e5"
+    },
+    {
+      "part": 327,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0327",
+      "bytes": 2097152,
+      "sha256": "2361c869a943a8d4976792ce6f50e1d71bb110d6e27ec772ae73193ac8d4097c"
+    },
+    {
+      "part": 328,
+      "batch": 5,
+      "name": "mtp-rt.tar.gz.part-0328",
+      "bytes": 222932,
+      "sha256": "f8c8b3a5193e434457e44fd0d8837303e349c88ceb09b31ddd6b8ba98536f13e"
+    }
+  ],
+  "batches": [
+    {
+      "batch": 0,
+      "image": "tonycao0918/strata-transfer:qwen-mtp-rt-20261030-b00",
+      "parts": 60,
+      "bytes": 125829120,
+      "digest": "sha256:482eaad0f0fb72bd7d11534aaa39bd0c7066ca38d2df4acfc6ffbeb24626a4bc"
+    },
+    {
+      "batch": 1,
+      "image": "tonycao0918/strata-transfer:qwen-mtp-rt-20261030-b01",
+      "parts": 60,
+      "bytes": 125829120,
+      "digest": "sha256:79b37b9d13ffdf87c5482e9e364e0b51893c60d6a84421c3320a32600cffe37b"
+    },
+    {
+      "batch": 2,
+      "image": "tonycao0918/strata-transfer:qwen-mtp-rt-20261030-b02",
+      "parts": 60,
+      "bytes": 125829120,
+      "digest": "sha256:83f8d1a53590a755d366cfe3a23b7dec0280dd1f71c148045961871d08e30e35"
+    },
+    {
+      "batch": 3,
+      "image": "tonycao0918/strata-transfer:qwen-mtp-rt-20261030-b03",
+      "parts": 60,
+      "bytes": 125829120,
+      "digest": "sha256:fe2071f32f616a221fd6525edcae679d01cd45a3085c281fac18b304c16cf945"
+    },
+    {
+      "batch": 4,
+      "image": "tonycao0918/strata-transfer:qwen-mtp-rt-20261030-b04",
+      "parts": 60,
+      "bytes": 125829120,
+      "digest": "sha256:ed19de4166680f9cdd394041c7e002de3f07d2c5928d0c1c33aa85bf61d31467"
+    },
+    {
+      "batch": 5,
+      "image": "tonycao0918/strata-transfer:qwen-mtp-rt-20261030-b05",
+      "parts": 29,
+      "bytes": 58943188,
+      "digest": "sha256:d8c5a25687424fb3dac3a4098a0dee7c4160065eeb02a61ea9d4a678ea15c391"
+    }
+  ],
+  "checksum_file": "strata-mtp-rebuild-20261030/SHA256SUMS"
+}
